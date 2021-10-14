@@ -1,5 +1,5 @@
 {
-  "name": "jcrop",
+  "name": "@nextcloud/jcrop",
   "version": "0.9.12",
   "description": "The Javascript cropping engine",
   "main": "build/js/jcrop.js",
