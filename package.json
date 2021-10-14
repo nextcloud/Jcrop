@@ -1,6 +1,6 @@
 {
   "name": "@nextcloud/jcrop",
-  "version": "0.9.13",
+  "version": "0.10.0",
   "description": "The Javascript cropping engine",
   "main": "build/js/jcrop.js",
   "unpkg": "dist/jcrop.js",
