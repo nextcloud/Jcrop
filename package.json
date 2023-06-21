@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node": ">=14.0.0",
-    "npm": ">=7.0.0"
+    "node": "^20.0.0",
+    "npm": "^9.0.0"
   },
   "author": "",
   "license": "MIT",
